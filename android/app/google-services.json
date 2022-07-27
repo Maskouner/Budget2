@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223187885515",
+    "project_id": "budget3-61a35",
+    "storage_bucket": "budget3-61a35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223187885515:android:a1c7c980feba8f3d362a4e",
+        "android_client_info": {
+          "package_name": "com.budget3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223187885515-m84d1tvrodc5rba9ch9nir9dg5rsf5bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0OR_z9X09FAH4iNrOxRrDWEFCf9oJZ4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223187885515-m84d1tvrodc5rba9ch9nir9dg5rsf5bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
